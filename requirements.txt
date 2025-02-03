@@ -1,0 +1,10 @@
+requirements = """\
+osmnx
+pandas
+numpy
+matplotlib
+ortools
+geopandas
+joblib
+networkx
+"""

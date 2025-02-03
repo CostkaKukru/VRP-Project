@@ -1,0 +1,18 @@
+stop_name,Summter Str. (Berlin),Mirower Str. (Berlin),Wilhelm-Blos-Str. (Berlin),Hultschiner Damm/Seestr. (Berlin),Kohlisstr. (Berlin),Mechthildstr. (Berlin),Wielandstr. (Berlin),Sadowastr. (Berlin),Eichenstr. (Berlin),Irenenstr. (Berlin),Einbecker Str./Rosenfelder Str. (Berlin),Robert-Uhrig-Str. (Berlin),"Berlin, Alt-Friedrichsfelde/Rhinstr.",Alt-Friedrichsfelde 60 (Berlin),Alt-Friedrichsfelde/Gensinger Str. (Berlin),Märkische Allee/Alt-Friedrichsfelde (Berlin),Lötschbergstr. (Berlin)
+Summter Str. (Berlin),0,1,2,3,3,4,4,5,6,21,21,21,18,19,16,15,14
+Mirower Str. (Berlin),1,0,1,2,3,3,4,5,5,21,21,20,18,18,16,14,13
+Wilhelm-Blos-Str. (Berlin),2,1,0,1,2,2,3,4,4,20,20,20,17,17,15,14,12
+Hultschiner Damm/Seestr. (Berlin),3,2,1,0,1,2,3,3,4,20,20,19,17,17,15,13,12
+Kohlisstr. (Berlin),3,3,2,1,0,2,3,3,4,20,20,20,17,18,15,14,13
+Mechthildstr. (Berlin),4,3,2,2,2,0,1,2,3,19,19,18,16,16,14,13,11
+Wielandstr. (Berlin),4,4,3,3,3,1,0,1,2,18,18,18,15,16,13,12,11
+Sadowastr. (Berlin),5,5,4,3,3,2,1,0,1,18,18,17,14,15,12,11,10
+Eichenstr. (Berlin),6,5,4,4,4,3,2,1,0,17,17,16,13,14,12,10,9
+Irenenstr. (Berlin),21,20,19,19,20,18,18,17,16,0,1,2,3,4,6,9,8
+Einbecker Str./Rosenfelder Str. (Berlin),20,20,19,19,19,18,17,16,16,1,0,2,3,4,5,8,7
+Robert-Uhrig-Str. (Berlin),19,18,18,17,18,17,16,15,14,3,2,0,1,2,4,7,6
+"Berlin, Alt-Friedrichsfelde/Rhinstr.",18,17,17,16,17,16,15,14,13,4,4,3,0,1,3,6,5
+Alt-Friedrichsfelde 60 (Berlin),17,17,16,16,16,15,14,13,13,7,7,7,4,0,2,5,4
+Alt-Friedrichsfelde/Gensinger Str. (Berlin),17,16,16,16,16,15,14,13,12,6,6,5,2,3,0,5,4
+Märkische Allee/Alt-Friedrichsfelde (Berlin),18,18,17,17,17,16,15,14,14,7,7,6,4,4,2,0,5
+Lötschbergstr. (Berlin),14,13,12,12,13,11,10,10,9,8,8,8,5,6,3,2,0

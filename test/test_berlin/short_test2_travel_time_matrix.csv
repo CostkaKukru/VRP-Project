@@ -1,0 +1,28 @@
+stop_name,Jan-Petersen-Str. (Berlin),Paul-Dessau-Str. (Berlin),S Raoul-Wallenberg-Str. (Berlin),Walter-Felsenstein-Str. (Berlin),Märkische Allee/Wuhletalstr. (Berlin),Köthener Str. (Berlin),Otto-Rosenberg-Str. (Berlin),Landsberger Chaussee/Zossener Str. (Berlin),"Berlin, Betriebshof Marzahn",Brodowiner Ring (Berlin),Landsberger Allee/Blumberger Damm (Berlin),Dessauer Str. (Berlin),Radieschenpfad (Berlin),Am Gehrensee (Berlin),S Ahrensfelde Bhf (Berlin),Flämingstr. (Berlin),Barnimplatz (Berlin),Rabensteiner Str. (Berlin),Belziger Ring (Berlin),Schwarzburger Str. (Berlin),Trusetaler Str. (Berlin),S Mehrower Allee (Berlin),Sella-Hasse-Str. (Berlin),Schleusinger Str. (Berlin),Lea-Grundig-Str. (Berlin),Glambecker Ring (Berlin),Rudolf-Leonhard-Str. (Berlin)
+Jan-Petersen-Str. (Berlin),0,1,2,3,4,6,4,4,3,3,2,8,8,9,8,7,7,6,5,4,5,4,4,4,3,3,2
+Paul-Dessau-Str. (Berlin),1,0,1,2,3,5,4,5,5,4,3,7,7,8,7,7,8,7,6,5,5,3,4,3,4,4,3
+S Raoul-Wallenberg-Str. (Berlin),2,1,0,1,2,4,2,6,6,5,4,6,6,6,6,6,6,7,6,5,4,2,3,3,4,5,4
+Walter-Felsenstein-Str. (Berlin),3,2,1,0,1,3,1,6,6,6,5,5,5,6,5,5,5,6,5,4,3,1,2,2,3,4,5
+Märkische Allee/Wuhletalstr. (Berlin),4,4,3,2,0,2,3,6,5,6,5,4,4,4,4,4,4,5,4,3,1,1,2,2,2,3,4
+Köthener Str. (Berlin),6,5,4,3,2,0,3,7,7,7,6,2,2,3,4,4,4,5,4,3,1,2,3,3,3,4,5
+Otto-Rosenberg-Str. (Berlin),4,3,2,1,2,3,0,8,7,7,6,4,4,5,6,6,7,7,6,6,4,2,4,3,4,5,6
+Landsberger Chaussee/Zossener Str. (Berlin),15,16,17,18,19,20,19,0,15,14,14,21,21,22,21,20,20,19,18,17,18,18,18,17,17,16,14
+"Berlin, Betriebshof Marzahn",3,5,5,6,5,6,7,1,0,1,2,8,8,8,8,7,6,5,4,3,5,5,4,4,3,2,2
+Brodowiner Ring (Berlin),3,4,5,6,6,7,7,1,1,0,1,8,8,9,8,7,6,5,5,4,5,5,4,4,4,3,1
+Landsberger Allee/Blumberger Damm (Berlin),2,3,4,5,5,6,6,2,2,1,0,8,8,8,7,6,6,5,4,3,5,5,4,4,3,2,1
+Dessauer Str. (Berlin),7,6,5,4,4,2,4,9,8,8,8,0,1,2,4,4,4,5,6,5,3,3,5,4,5,6,7
+Radieschenpfad (Berlin),8,7,6,5,5,3,5,10,9,9,9,1,0,1,3,3,3,4,5,6,4,4,6,5,6,7,8
+Am Gehrensee (Berlin),8,7,6,5,5,3,5,9,8,9,8,2,1,0,2,2,2,3,4,5,4,4,6,5,6,6,7
+S Ahrensfelde Bhf (Berlin),8,7,6,5,5,4,6,8,8,8,7,3,2,1,0,1,1,2,3,4,4,4,6,5,6,5,7
+Flämingstr. (Berlin),7,7,6,5,4,3,6,7,7,7,6,4,3,2,1,0,0,1,2,3,3,4,5,5,5,4,5
+Barnimplatz (Berlin),7,7,6,5,5,4,6,7,6,6,6,4,3,2,1,0,0,1,2,3,4,4,6,5,5,4,5
+Rabensteiner Str. (Berlin),6,7,7,6,5,5,7,6,5,5,5,5,4,3,2,1,1,0,1,2,3,5,5,4,4,3,4
+Belziger Ring (Berlin),5,6,6,5,4,4,6,5,4,5,4,6,5,4,3,2,2,1,0,1,3,5,4,3,3,2,3
+Schwarzburger Str. (Berlin),4,5,5,4,3,3,6,4,3,4,3,5,5,5,4,3,3,2,1,0,2,4,3,2,2,1,2
+Trusetaler Str. (Berlin),5,5,4,3,2,1,4,6,5,5,5,3,3,4,3,3,3,3,3,2,0,2,2,1,2,3,4
+S Mehrower Allee (Berlin),4,3,2,1,0,2,2,6,5,5,5,4,4,5,4,4,4,5,4,3,2,0,2,1,2,3,4
+Sella-Hasse-Str. (Berlin),4,4,4,3,2,3,4,5,4,4,4,5,5,6,5,5,5,5,4,3,2,2,0,0,1,2,3
+Schleusinger Str. (Berlin),4,3,3,2,2,3,3,4,4,4,4,4,4,5,4,5,5,4,3,2,1,1,0,0,0,1,3
+Lea-Grundig-Str. (Berlin),3,4,4,3,2,3,4,4,3,4,3,5,5,6,5,5,5,4,3,2,2,2,1,0,0,1,2
+Glambecker Ring (Berlin),3,4,5,4,3,4,5,3,2,3,2,6,6,6,5,4,4,3,2,1,3,3,2,2,1,0,1
+Rudolf-Leonhard-Str. (Berlin),2,3,4,5,4,5,6,2,2,1,1,7,7,7,6,5,5,4,3,2,4,4,3,3,2,1,0
