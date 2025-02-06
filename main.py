@@ -3,7 +3,6 @@ from src.solvers.bab_solver import solve_vrp_bab
 from src.visualization import plot_routes
 import joblib
 import pandas as pd
-import re
 
 def main():
     route_nodes = None
@@ -77,14 +76,6 @@ def main():
     
     encoder, model = None, None
 
-#    def algorithm_choice(alg):
-#        if alg == "1":
-#            return "Simulated Annealing"
-#        if alg == "2":
-#            return "Branch and Bound"
-#        if alg == "3":
-#            return "Simulated Annealing with delay prediction"
-
     if choice_alg in ["1"]:
         print("\nSolving with Simulated Annealing...")
         route_nodes = solve_vrp_sa(time_csv, trips_file)
@@ -115,3 +106,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

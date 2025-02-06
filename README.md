@@ -1,7 +1,7 @@
 
 # Vehicle Routing Problem (VRP) Optimization
 
-This project tackles the Vehicle Routing Problem (VRP) with a focus on optimizing public transport accessibility in Berlin, Germany. It leverages a grid-based scoring model and integrates advanced optimization algorithms, including Simulated Annealing (SA), Branch and Bound (BaB), and machine learning-enhanced approaches.
+This project tackles the Vehicle Routing Problem (VRP) with a focus on optimizing bus routes  in Berlin, Germany. It leverages a grid-based scoring model and integrates advanced optimization algorithms, including Simulated Annealing (SA), Branch and Bound (BaB), and machine learning-enhanced approaches.
 
 ---
 
@@ -21,14 +21,12 @@ This project tackles the Vehicle Routing Problem (VRP) with a focus on optimizin
 
 ## Project Overview
 
-The VRP project focuses on:
-- Optimizing bus routes and schedules to improve public transport accessibility.
-- Minimizing travel time, fuel costs, and emissions.
+The Project focuses on:
+- Optimizing bus routes to improve public transport accessibility.
+- Minimizing travel times.
 - Incorporating real-time traffic conditions and historical data into optimization.
 
-The analysis is based on Berlin's bus network, considering over 7,600 bus stops and 163 lines. The solution integrates advanced algorithms to improve accessibility for low-scoring grid areas.
-
----
+The analysis is based on Berlin's bus network, considering over 500 bus stops. 
 
 ## Features
 
