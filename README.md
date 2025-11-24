@@ -1,7 +1,7 @@
 
-# Vehicle Routing Problem (VRP) Optimization
+# Vehicle Routing Problem (VRP) Optimization 
 
-This project tackles the Vehicle Routing Problem (VRP) with a focus on optimizing bus routes  in Berlin, Germany. It leverages a grid-based scoring model and integrates advanced optimization algorithms, including Simulated Annealing (SA), Branch and Bound (BaB), and machine learning-enhanced approaches.
+This project tackles the Vehicle Routing Problem (VRP) with a focus on optimizing bus routes in Berlin, Germany. It leverages a grid-based scoring model and integrates advanced optimization algorithms, including Simulated Annealing (SA), Branch and Bound (BaB), and machine learning-enhanced (gradient boosting) approaches.
 
 ---
 
@@ -32,7 +32,7 @@ The analysis is based on Berlin's bus network, considering over 500 bus stops.
 
 - **Simulated Annealing (SA):** Metaheuristic optimization for efficient route planning.
 - **Branch and Bound (BaB):** Exact optimization for small datasets.
-- **Machine Learning Integration:** Predicting delays based on traffic data.
+- **Machine Learning Integration:** Predicting delays based on traffic data using XGBoost.
 - **Visualization:** Mapped routes using OSMnx and Matplotlib.
 
 ---
@@ -55,7 +55,7 @@ The analysis is based on Berlin's bus network, considering over 500 bus stops.
 ### Branch and Bound (BaB)
 - Systematic search for optimal solutions for smaller datasets.
 
-### Machine Learning-enhanced SA
+### Machine Learning-enhanced SA + gradient boosting
 - Predicts traffic delays dynamically using a trained model and integrates them into the optimization process.
 
 ---
@@ -127,7 +127,7 @@ Generated routes are visualized on a Berlin map with:
 - **BaB Results:**
   - Best for exact optimization with small datasets.
 - **Machine Learning Integration:**
-  - Successfully predicted delays, improving accessibility scoring.
+  - Successfully predicted delays, improving accurate time predictions.
 
 ---
 
